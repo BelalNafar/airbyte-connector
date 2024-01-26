@@ -1,0 +1,10 @@
+README.md
+setup.py
+destination_bilal_connector_py/__init__.py
+destination_bilal_connector_py/destination.py
+destination_bilal_connector_py/spec.json
+destination_bilal_connector_py.egg-info/PKG-INFO
+destination_bilal_connector_py.egg-info/SOURCES.txt
+destination_bilal_connector_py.egg-info/dependency_links.txt
+destination_bilal_connector_py.egg-info/requires.txt
+destination_bilal_connector_py.egg-info/top_level.txt

@@ -1,0 +1,4 @@
+airbyte-cdk
+
+[tests]
+pytest~=6.2
